@@ -13,3 +13,5 @@ A simple bot that updates a voice channel with a fictional RP calendar based on 
 1. Clone this repo or upload files to your own.
 2. Create a bot at https://discord.com/developers/applications and get your token.
 3. On Railway/Render, add the environment variable:
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?repository=https://github.com/MrUnwanic/DiscordBot)
