@@ -1,0 +1,11 @@
+{
+  "build": {
+    "env": {
+      "TOKEN": {
+        "required": true
+      }
+    },
+    "start": "python3 main.py"
+  }
+}
+
